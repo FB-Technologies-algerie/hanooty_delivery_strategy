@@ -1,0 +1,17 @@
+{
+    "name": "fb_tech/hanooty_delivery_strategy",
+    "description": "Hanooty Delivery Strategy",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "FbTech\\HanootyDeliveryStrategy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "weirdinventor",
+            "email": "houacheibrahim@gmail.com"
+        }
+    ],
+    "require": {}
+}
